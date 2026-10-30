@@ -1,0 +1,56 @@
+{
+  "config": {
+    "enabled": true,
+    "scheduledTime": "08:30",
+    "timezone": "Asia/Kolkata",
+    "topics": [
+      "ai",
+      "tech",
+      "business",
+      "world"
+    ],
+    "tone": "hinglish_tech_bro",
+    "language": "Hinglish",
+    "telegramBotToken": "",
+    "telegramChatId": "",
+    "customPrompt": "Focus on impactful AI announcements, developer tools, and notable macroeconomic developments.",
+    "articleLimit": 12,
+    "lastRunTimestamp": "2026-10-30T04:41:29.105Z",
+    "nextRunTimestamp": "2026-10-30T08:30:00.000Z"
+  },
+  "history": [
+    {
+      "id": "del-mvuhh2z3",
+      "timestamp": "2026-10-30T04:39:58.287Z",
+      "status": "success",
+      "articleCount": 12,
+      "sourcesUsed": [
+        "BBC Business & Markets",
+        "CoinDesk",
+        "BBC World News",
+        "Hacker News Frontpage",
+        "TechCrunch"
+      ],
+      "newsletterTitle": "🌅 NewsPulse Daily Digest · Friday, Oct 30, 2026",
+      "content": "# 🌅 NewsPulse Daily Digest · Friday, Oct 30, 2026\n\nNamaste! Yeh raha aapka daily curated intelligence digest, jo direct MCP news feeds se analyze kiya gaya hai.\n\n## ⚡️ Aaj Ka Sabse Bada Update\n**Binance says crypto worth $6.3bn impacted by hack**\nThe firm said roughly $3bn in assets have been frozen and that it will \"cover all losses\".\n🔗 *Source:* [BBC Business & Markets](undefined)\n\n## 📌 Top Stories Ek Nazar Me\n- **$6 billion Binance hack sends bitcoin, ether tumbling; Standard Chartered expects more pain**: Bitcoin and ether slid after a suspected $6.3 billion Binance security breach and a Polymarket exploit. Standard Chartered says crypto price... [CoinDesk](undefined)\n- **Institutional crypto investors rush to pull funds from exchanges after Binance hack**: The withdrawals suggest the fallout from the multibillion-dollar breach is spreading beyond Binance.... [CoinDesk](undefined)\n- **Crypto's longtime foe, North Korea's Lazarus Group, likely behind Binance hack: blockchain sleuths**: Security researchers suggested that the hermit kingdom's Lazarus Group was behind Thursday's nearly $6 billion hack of the world's largest c... [CoinDesk](undefined)\n- **Record number of purges as Xi emphasises 'party discipline' at China political gathering**: Xi's anti-corruption campaign has become \"an effort to consolidate and maintain authority\", observers say.... [BBC World News](undefined)\n- **CVE-2026-98432: Linux TCP Use-After-Free Risk and Patch Validation**: Article URL: https://www.penligent.ai/hackinglabs/cve-2026-98432/ Comments URL: https://news.ycombinator.com/item?id=50299182 Points: 21 # C... [Hacker News Frontpage](undefined)\n\n## 💡 Key Takeaway\nFrontier AI agent tools aur dynamic infrastructure fast adapt ho rahe hain. Stay tuned for tomorrow's briefing!\n",
+      "triggerType": "manual",
+      "telegramMessageId": 4
+    },
+    {
+      "id": "del-mvuhghk3",
+      "timestamp": "2026-10-30T04:39:30.531Z",
+      "status": "success",
+      "articleCount": 12,
+      "sourcesUsed": [
+        "BBC Business & Markets",
+        "CoinDesk",
+        "BBC World News",
+        "Hacker News Frontpage",
+        "TechCrunch"
+      ],
+      "newsletterTitle": "🌅 NewsPulse Daily Digest · Friday, Oct 30, 2026",
+      "content": "# 🌅 NewsPulse Daily Digest · Friday, Oct 30, 2026\n\nNamaste! Yeh raha aapka daily curated intelligence digest, jo direct MCP news feeds se analyze kiya gaya hai.\n\n## ⚡️ Aaj Ka Sabse Bada Update\n**Binance says crypto worth $6.3bn impacted by hack**\nThe firm said roughly $3bn in assets have been frozen and that it will \"cover all losses\".\n🔗 *Source:* [BBC Business & Markets](undefined)\n\n## 📌 Top Stories Ek Nazar Me\n- **$6 billion Binance hack sends bitcoin, ether tumbling; Standard Chartered expects more pain**: Bitcoin and ether slid after a suspected $6.3 billion Binance security breach and a Polymarket exploit. Standard Chartered says crypto price... [CoinDesk](undefined)\n- **Institutional crypto investors rush to pull funds from exchanges after Binance hack**: The withdrawals suggest the fallout from the multibillion-dollar breach is spreading beyond Binance.... [CoinDesk](undefined)\n- **Crypto's longtime foe, North Korea's Lazarus Group, likely behind Binance hack: blockchain sleuths**: Security researchers suggested that the hermit kingdom's Lazarus Group was behind Thursday's nearly $6 billion hack of the world's largest c... [CoinDesk](undefined)\n- **Record number of purges as Xi emphasises 'party discipline' at China political gathering**: Xi's anti-corruption campaign has become \"an effort to consolidate and maintain authority\", observers say.... [BBC World News](undefined)\n- **CVE-2026-98432: Linux TCP Use-After-Free Risk and Patch Validation**: Article URL: https://www.penligent.ai/hackinglabs/cve-2026-98432/ Comments URL: https://news.ycombinator.com/item?id=50299182 Points: 18 # C... [Hacker News Frontpage](undefined)\n\n## 💡 Key Takeaway\nFrontier AI agent tools aur dynamic infrastructure fast adapt ho rahe hain. Stay tuned for tomorrow's briefing!\n",
+      "triggerType": "manual"
+    }
+  ]
+}

@@ -1,0 +1,6 @@
+{
+  "name": "NewsPulse MCP & Telegram AI Agent",
+  "description": "Automated AI news intelligence agent powered by a Model Context Protocol (MCP) multi-source news server, generating curated daily newsletters dispatched directly to Telegram.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
